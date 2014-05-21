@@ -1,0 +1,8 @@
+<?php
+
+$config = array(
+	'dbhost' => 'database_hostname',
+	'dbuser' => 'your_username',
+	'dbpass' => 'your_password',
+	'dbname' => 'phriction'
+);
